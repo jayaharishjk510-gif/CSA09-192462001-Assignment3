@@ -1,0 +1,4 @@
+StoreFile,TotalQuantity,TotalSalesValue,Status
+Q3/store1.csv,45,304250.00,SUCCESS
+Q3/store3_corrupt.csv,0,0.00,DATA_CORRUPT
+Q3/store4.csv,40,224800.00,SUCCESS
