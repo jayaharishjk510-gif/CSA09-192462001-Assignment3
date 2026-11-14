@@ -1,0 +1,9 @@
+# Compiled Java Class Files
+*.class
+
+# Generated Large Test Datasets
+Q7/scores/
+
+# OS specific files
+.DS_Store
+Thumbs.db
