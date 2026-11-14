@@ -36,3 +36,4 @@ public class ScannerThread extends Thread {
         return scannedCount;
     }
 }
+

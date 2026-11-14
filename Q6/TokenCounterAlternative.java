@@ -112,3 +112,4 @@ public class TokenCounterAlternative {
         System.out.printf("Final Balances with tryLock: W1=%.2f, W2=%.2f%n", w1.balance, w2.balance);
     }
 }
+

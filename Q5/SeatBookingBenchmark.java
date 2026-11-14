@@ -168,3 +168,4 @@ public class SeatBookingBenchmark {
         System.out.printf("5. ConcurrentHashMap        : %4d ms (Seats sold: %d)%n", durCmc, cmc.bookings.size());
     }
 }
+

@@ -39,3 +39,4 @@ public class SeatBooking {
         System.out.println("Seats sold: " + screen.bookingsMade);
     }
 }
+

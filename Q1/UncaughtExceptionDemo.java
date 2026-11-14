@@ -26,3 +26,4 @@ public class UncaughtExceptionDemo {
         executeTransaction("50000"); // Will trigger uncaught ArithmeticException
     }
 }
+

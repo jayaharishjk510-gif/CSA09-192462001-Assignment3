@@ -62,3 +62,4 @@ public class HostelWalletDeadlockFree {
                 wallet1.balance, wallet2.balance);
     }
 }
+

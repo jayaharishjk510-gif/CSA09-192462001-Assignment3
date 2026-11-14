@@ -81,3 +81,4 @@ public class SalesReportManual {
         generateReport(failingFiles, "Q3/manual_summary_corrupted.csv");
     }
 }
+

@@ -67,3 +67,4 @@ public class SalesReportAutoClose {
         generateReport(mixedFiles, "Q3/autoclose_summary_mixed.csv");
     }
 }
+
