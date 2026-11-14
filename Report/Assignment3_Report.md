@@ -13,13 +13,13 @@
 ### Student Identification Record
 
 - **Student A**:
-  - Name: `[Student A Full Name]`
-  - Register Number: `[Student A Register Number]`
-  - GitHub Repository: `https://github.com/[StudentA-Username]/CSA09-[RegisterNumber]-Assignment3`
+  - Name: `Jaya Harish`
+  - Register Number: `192462001`
+  - GitHub Repository: `https://github.com/jayaharishjk510-gif/CSA09-192462001-Assignment3`
 - **Student B**:
   - Name: `[Student B Full Name]`
   - Register Number: `[Student B Register Number]`
-  - GitHub Repository: `https://github.com/[StudentB-Username]/CSA09-[RegisterNumber]-Assignment3`
+  - GitHub Repository: `https://github.com/jayaharishjk510-gif/CSA09-192462001-Assignment3`
 
 ---
 
@@ -1025,3 +1025,4 @@ The primary remaining bottleneck is disk I/O serialized at the host storage cont
 | **Q7** | 10,000 Score File Processor | Completed | `Q7/ResultProcessor.java` – 100% fault-tolerant batch processing. |
 | **Q7** | Multi-Core Scaling Benchmarks | Completed | Benchmarked across 1, 2, 4, 8 threads; 4 threads identified as peak. |
 | **Q7** | ParallelStream & Thread Alternatives| Completed | `Q7/ResultProcessorAlternative.java` – Time and memory trade-offs analyzed. |
+

@@ -3,6 +3,8 @@
 **Course**: Programming in Java (CSA09)  
 **Module**: CO3 – Exception Handling, Robust Resource Management & Multithreading  
 **Degree**: B.Tech Computer Science & Engineering (Semester V)  
+**Register Number**: 192462001  
+**GitHub Repository**: [https://github.com/jayaharishjk510-gif/CSA09-192462001-Assignment3](https://github.com/jayaharishjk510-gif/CSA09-192462001-Assignment3)  
 **Mode**: Pair Work (Student A & Student B)  
 
 ---
@@ -252,3 +254,4 @@ git push -u origin main
 - **Student A**: Primary responsibility for Q1 Exception Design, Q2 Hierarchy & Propagation, Q3 Debugging & Resource Leaks, Q4 Thread Design & Lifecycle, Q5 Race Condition Reproduction, Q6 Producer-Consumer & Spurious Wakeup Analysis, Q7 Architecture Design & Concurrency.
 - **Student B**: Primary responsibility for Q1 Testing & Uncaught Traces, Q2 Failure Scenarios & Chaining Evidence, Q3 Design & Resource Correctness, Q4 Behavioral Experiments & Priority Scheduling, Q5 Benchmark Analysis & Synchronization Strategies, Q6 Deadlock Reproduction & Lock Ordering Prevention, Q7 Implementation & Multi-Core Measurement.
 - **Joint Responsibilities**: Q1 Design Question (Catching `Exception`), Q2 Architectural Encapsulation, Q3 Robustness Decisions, Q4 Thread Scheduling Analysis, Q5 20-Screen Cinema Architecture, Q6 Progress Guarantees, Q7 Problem Interpretation & System Defense.
+
